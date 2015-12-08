@@ -2825,10 +2825,10 @@ input[type="button"].btn-block {
     background-color: #3071a9; }
 
 .label-success {
-  background-color: #55c65e;
-  border: 1px solid #36943e; }
+  background-color: #404040;
+  border: 1px solid #000000; }
   .label-success[href]:hover, .label-success[href]:focus {
-    background-color: #3aae43; }
+    background-color: #404040; }
 
 .label-info {
   background-color: #5192f3;
