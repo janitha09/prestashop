@@ -59,7 +59,7 @@
           content: "\f068"; } }
   .sf-menu > li > a {
     font: 600 18px/22px "Open Sans", sans-serif;
-    text-transform: uppercase;
+    text-transform: none;
     color: #484848;
     display: block;
     padding: 17px 20px;
